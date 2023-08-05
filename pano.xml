@@ -18,7 +18,7 @@
       <label textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" width="180" border="1" backgroundalpha="1" borderalpha="1" height="20" background="1" enabled="1" borderradius="1"/>
       <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
       <hotspot skinid="ht_node" url="{node2}" title="hello1" description="" tilt="-16.41" pan="-9.08" id="Point01" target="-1.5/0.4/70.0"/>
-      <hotspot skinid="ht_node" url="{node3}" title="entry1" description="" tilt="-1" pan="-9.79" id="Point02" target="65.9/-7.4/70.0"/>
+      <hotspot skinid="ht_node" url="{node3}" title="entry1" description="" tilt="-0.91" pan="-9.79" id="Point02" target="65.9/-7.4/70.0"/>
       <hotspot skinid="ht_node" url="{node1}" title="far1" description="" tilt="-7.31" pan="-199.45" id="Point03" target="0.0/0.0/70.0"/>
     </hotspots>
     <media/>
@@ -257,6 +257,33 @@
       <hotspot skinid="ht_node" url="{node9}" title="hi2" description="" tilt="-18.29" pan="-216.28" id="Point01" target="149.9/-1.8/70.0"/>
       <hotspot skinid="ht_node" url="{node8}" title="entry2" description="" tilt="-6.3" pan="-219.55" id="Point02" target="141.4/-3.0/70.0"/>
       <hotspot skinid="ht_node" url="{node10}" title="far2" description="" tilt="-4.18" pan="-45.11" id="Point03" target="129.9/1.5/70.0"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomfov="20" zoomin="0" zoomoutpause="1" softedge="0" blendtime="1" zoomafterinfov="90" zoomafteroutfov="20" type="crossdissolve" enabled="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="0" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboard="0" lockedmouse="0" invertcontrol="1" rubberband="0" sensitivity="8" simulatemass="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingpitch="0" levelbias="0.400" width="2048" levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelingroll="0" leveltilesize="510" overlap="1">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max scaletofit="1" tilt="90" fovstereographic="270" pan="360" fov="120" fovfisheye="360"/>
+    </view>
+    <userdata copyright="" longitude="" heading="0" author="" nodeid="node11" title="" source="" latitude="" description="" datetime="8/5/2023 3:49 PM" info="" tags="Out|imp" comment="" customnodeid=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" width="180" border="1" backgroundalpha="1" borderalpha="1" height="20" background="1" enabled="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot skinid="ht_node" url="{node3}" title="entry1" description="" tilt="-1.02" pan="-9.7" id="Point02" target="65.9/-7.4/70.0"/>
+      <hotspot skinid="ht_node" url="{node2}" title="hello1" description="" tilt="-14.34" pan="-7.77" id="Point01" target="-1.5/0.4/70.0"/>
+      <hotspot skinid="ht_node" url="{node1}" title="far1" description="" tilt="-6.03" pan="-203.72" id="Point03" target="0.0/0.0/70.0"/>
     </hotspots>
     <media/>
     <transition blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomfov="20" zoomin="0" zoomoutpause="1" softedge="0" blendtime="1" zoomafterinfov="90" zoomafteroutfov="20" type="crossdissolve" enabled="1"/>
