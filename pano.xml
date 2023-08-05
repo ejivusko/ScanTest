@@ -13,7 +13,7 @@
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max scaletofit="1" tilt="90" fovstereographic="270" pan="360" fov="120" fovfisheye="360"/>
     </view>
-    <userdata copyright="" longitude="" heading="130.3" author="" nodeid="node1" title="far1" source="" latitude="" description="" datetime="1/1/2019 12:06 AM" info="" tags="ScanLocal" comment="" customnodeid=""/>
+    <userdata copyright="" longitude="" heading="130.3" author="" nodeid="node1" title="far1" source="" latitude="" description="" datetime="1/1/2019 12:06 AM" info="" tags="ScanLocal|r1" comment="" customnodeid=""/>
     <hotspots wordwrap="1" width="180" height="20">
       <label textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" width="180" border="1" backgroundalpha="1" borderalpha="1" height="20" background="1" enabled="1" borderradius="1"/>
       <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
@@ -245,12 +245,12 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="278.9" fovmode="0">
-      <start tilt="1.60224" pan="-72.4798" projection="4" fov="70"/>
+      <start tilt="-2.00758" pan="117.247" projection="4" fov="70"/>
       <flyin tilt="-90" pan="0" projection="9" fov="170"/>
       <min tilt="-90" pan="0" fovpixel="2"/>
       <max scaletofit="1" tilt="90" fovstereographic="270" pan="360" fov="120" fovfisheye="360"/>
     </view>
-    <userdata copyright="" longitude="" heading="278.9" author="" nodeid="node10" title="far2" source="" latitude="" description="" datetime="1/1/2019 12:13 AM" info="" tags="ScanLocal" comment="" customnodeid=""/>
+    <userdata copyright="" longitude="" heading="278.9" author="" nodeid="node10" title="far2" source="" latitude="" description="" datetime="1/1/2019 12:13 AM" info="" tags="ScanLocal|r2" comment="" customnodeid=""/>
     <hotspots wordwrap="1" width="180" height="20">
       <label textcolor="0x000000" bordercolor="0x000000" backgroundcolor="0xffffff" wordwrap="1" textalpha="1" width="180" border="1" backgroundalpha="1" borderalpha="1" height="20" background="1" enabled="1" borderradius="1"/>
       <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1"/>
